@@ -16,9 +16,6 @@
 ---------------------------------
 ### view 페이지 모습
 <img width="421" alt="스크린샷 2023-04-14 오전 9 32 26" src="https://user-images.githubusercontent.com/81701212/231911646-c7f2dc24-f575-4972-824a-12716018b960.png">
-통계 자료 검색 페이지
+-> 통계 자료 검색 페이지
 <img width="566" alt="스크린샷 2023-04-14 오전 9 32 58" src="https://user-images.githubusercontent.com/81701212/231911657-f9e33e0a-2e4a-4af1-a01b-fc53281fc89c.png">
-통계 자료 노출 페이지
-
-![KakaoTalk_20221106_232941199_01](https://user-images.githubusercontent.com/81701212/200177530-464c10a3-52ae-4c8c-ade6-da11408e3b62.jpg)
-![KakaoTalk_20221106_233026391](https://user-images.githubusercontent.com/81701212/200177532-bc178741-6d01-40a4-be1c-1cacac7e6711.jpg)
+-> 통계 자료 노출 페이지
