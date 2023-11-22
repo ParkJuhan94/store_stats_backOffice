@@ -17,8 +17,13 @@
 - view 를 위해서 단순 html과 css로 구현합니다. 페이지끼리의 데이터 통신과 동적 페이지를 위해 jQuery를 사용합니다. 
 - 서버단에서 로직을 구현하는데에는 php를 사용합니다.
 ---------------------------------
-### ✔️Pages
-<img width="421" alt="스크린샷 2023-04-14 오전 9 32 26" src="https://user-images.githubusercontent.com/81701212/231911646-c7f2dc24-f575-4972-824a-12716018b960.png">
--> 통계 자료 검색 페이지 <br><br>
+### ✔️Pages <br><br><br>
+- 통계 자료 검색 페이지 <br><br><br>
+![KakaoTalk_20221121_114741873_01](https://user-images.githubusercontent.com/81701212/202976932-dcc73487-36fa-45f2-851d-1f041f3a9418.png)
+
+![KakaoTalk_20221121_114741873_02](https://user-images.githubusercontent.com/81701212/202976961-309401b4-0304-4085-8137-4e2d9afc62d6.png)
+
+<br><br><br><br><br>
+- 통계 자료 노출 페이지 <br><br><br>
+![KakaoTalk_20221121_114741873](https://user-images.githubusercontent.com/81701212/202976967-f52bdd0f-446a-4fd1-a008-cccd09d0191b.png)
 <img width="566" alt="스크린샷 2023-04-14 오전 9 32 58" src="https://user-images.githubusercontent.com/81701212/231911657-f9e33e0a-2e4a-4af1-a01b-fc53281fc89c.png">
--> 통계 자료 노출 페이지
